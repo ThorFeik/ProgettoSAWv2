@@ -1,0 +1,21 @@
+:root{
+    --sfondo: #B7EAE1;
+    --pulsanti: #6CD6C3;
+    --errore: red;
+    --bianco: white;
+}
+
+body{
+    background-color: var(--sfondo);
+}
+
+button{
+    background-color: var(--pulsanti);
+    padding: 10px 16px;
+    border-radius: 9999px;
+    font-style: italic;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
