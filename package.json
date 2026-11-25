@@ -1,0 +1,19 @@
+{
+  "name": "progettosawv2",
+  "version": "1.0.0",
+  "description": "Applicazione per gestione studio dentistico per l'esame SAW v2",
+  "license": "ISC",
+  "author": "Luca",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "vite": "^8.3.8"
+  }
+}
